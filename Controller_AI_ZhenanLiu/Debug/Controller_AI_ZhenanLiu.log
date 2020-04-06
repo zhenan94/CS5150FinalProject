@@ -1,0 +1,18 @@
+﻿  Controller_AI_ZhenanLiu.cpp
+D:\cs5150\final\CrashLoyal-master\Controller_AI_ZhenanLiu\src\Controller_AI_ZhenanLiu.cpp(78,20): warning C4018: '<': signed/unsigned mismatch
+D:\cs5150\final\CrashLoyal-master\Controller_AI_ZhenanLiu\src\Controller_AI_ZhenanLiu.cpp(80,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\cs5150\final\CrashLoyal-master\Controller_AI_ZhenanLiu\src\Controller_AI_ZhenanLiu.cpp(139,20): warning C4018: '<': signed/unsigned mismatch
+D:\cs5150\final\CrashLoyal-master\Controller_AI_ZhenanLiu\src\Controller_AI_ZhenanLiu.cpp(162,20): warning C4018: '<': signed/unsigned mismatch
+D:\cs5150\final\CrashLoyal-master\Controller_AI_ZhenanLiu\src\Controller_AI_ZhenanLiu.cpp(174,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\cs5150\final\CrashLoyal-master\Controller_AI_ZhenanLiu\src\Controller_AI_ZhenanLiu.cpp(175,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\cs5150\final\CrashLoyal-master\Controller_AI_ZhenanLiu\src\Controller_AI_ZhenanLiu.cpp(185,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\cs5150\final\CrashLoyal-master\Controller_AI_ZhenanLiu\src\Controller_AI_ZhenanLiu.cpp(186,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\cs5150\final\CrashLoyal-master\Controller_AI_ZhenanLiu\src\Controller_AI_ZhenanLiu.cpp(197,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\cs5150\final\CrashLoyal-master\Controller_AI_ZhenanLiu\src\Controller_AI_ZhenanLiu.cpp(198,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\cs5150\final\CrashLoyal-master\Controller_AI_ZhenanLiu\src\Controller_AI_ZhenanLiu.cpp(217,23): warning C4018: '<': signed/unsigned mismatch
+D:\cs5150\final\CrashLoyal-master\Controller_AI_ZhenanLiu\src\Controller_AI_ZhenanLiu.cpp(261,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\cs5150\final\CrashLoyal-master\Controller_AI_ZhenanLiu\src\Controller_AI_ZhenanLiu.cpp(262,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\cs5150\final\CrashLoyal-master\Controller_AI_ZhenanLiu\src\Controller_AI_ZhenanLiu.cpp(267,23): warning C4018: '<': signed/unsigned mismatch
+D:\cs5150\final\CrashLoyal-master\Controller_AI_ZhenanLiu\src\Controller_AI_ZhenanLiu.cpp(271,25): warning C4018: '<': signed/unsigned mismatch
+D:\cs5150\final\CrashLoyal-master\Controller_AI_ZhenanLiu\src\Controller_AI_ZhenanLiu.cpp(273,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Controller_AI_ZhenanLiu.vcxproj -> D:\cs5150\final\CrashLoyal-master\Debug\Controller_AI_ZhenanLiu.lib
